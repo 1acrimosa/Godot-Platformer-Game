@@ -1,4 +1,4 @@
-# Godot-Platformer-Game
+# Godot Platformer Game
 
 ---
 
