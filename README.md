@@ -12,8 +12,8 @@
 
 ## Source
 
-I created platformer game with Godot game engine.
-Source: https://www.youtube.com/watch?v=S8lMTwSRoRg&list=WL&index=5
+I created platformer game with Godot game engine. <br />
+Source: https://www.youtube.com/watch?v=S8lMTwSRoRg&list=WL&index=5 <br />
 Enjoy!
 
 ---
