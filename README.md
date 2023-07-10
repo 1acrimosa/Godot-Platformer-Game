@@ -13,7 +13,7 @@
 ## Source
 
 I created platformer game with Godot game engine. <br />
-Source: https://www.youtube.com/watch?v=S8lMTwSRoRg&list=WL&index=5 <br />
+Source: @codecademy <br />
 Enjoy!
 
 ---
